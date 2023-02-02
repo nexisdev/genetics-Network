@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exzo-Network&show_icons=true&theme=radical)
 
+
 ### Hi there my name is Stefan and I'm a Bioinformatics Scientist, Data Scientist, and Self-taught Software Engineer with over 4+ years of experience in computational laboratories working on whole genomics sequencing projects, lung cancer squamous cell carcinoma therapeutic intervention projects, and other large dataset projects. I have been coding for over 7 years in different languages from Python, R programming, JavaScript, React JS. and many more.
 
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything science or data related.
 
 - ⚡ Fun fact: I enjoy working on large datasets to utilize statistical modeling to interpret these results to come up with solutions to real world problems. I also really enjoy coffee and trying to make peoples lives better in anyway I can.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
