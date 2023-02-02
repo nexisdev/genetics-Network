@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy working on large datasets to utilize statistical modeling to interpret these results to come up with solutions to real world problems. I also really enjoy coffee and trying to make peoples lives better in anyway I can.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exzo-Network&langs_count=8)](https://github.com/Exzo-Network/github-readme-stats)
