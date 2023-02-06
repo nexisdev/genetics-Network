@@ -1,3 +1,5 @@
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f5b76bb136299f34bd0490dc19ea9e56706122898732b1c80a0909dfb487c3b0/68747470733a2f2f692e696d6775722e636f6d2f7276466e6a66652e706e67"><img align="center" src="https://camo.githubusercontent.com/f5b76bb136299f34bd0490dc19ea9e56706122898732b1c80a0909dfb487c3b0/68747470733a2f2f692e696d6775722e636f6d2f7276466e6a66652e706e67" alt="lexmarcos header" height="auto" width="1185" data-canonical-src="https://i.imgur.com/rvFnjfe.png" style="max-width: 100%;"></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exzo-Network&show_icons=true&theme=merko)
 
 
