@@ -44,5 +44,3 @@
     <img src="https://camo.githubusercontent.com/1ec22c0caba0385a5defc20ed1d382b6fd9d83704eeeacd6e000ff99e7b73271/68747470733a2f2f692e696d6775722e636f6d2f524663375673792e706e67" alt="vuetify" width="50" height="50" data-canonical-src="https://i.imgur.com/RFc7Vsy.png" style="max-width: 100%;">
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exzo-Network&langs_count=8)](https://github.com/Exzo-Network/github-readme-stats)
